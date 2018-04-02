@@ -1,1 +1,0 @@
-alert("Lets get started!")
